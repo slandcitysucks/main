@@ -47,10 +47,7 @@ email = "Members of the public"
 name = "Home"
 pageRef = "/"
 weight = 10
-[[menu.main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 20
+
 
 [services.rss]
 limit = 42
